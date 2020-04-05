@@ -1,3 +1,3 @@
 # infolibrary
-instant search using keyword a simple php project
+instant search using keyword a simple php project.
 A Simple Search Engine
